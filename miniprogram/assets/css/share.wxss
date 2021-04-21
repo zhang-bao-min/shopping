@@ -1,0 +1,119 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  padding: 0 15rpx;
+  box-sizing: border-box;
+}
+
+.flex-X{
+  display: flex;
+  flex-direction: row;
+}
+
+.flex-Y{
+  display: flex;
+  flex-direction: column;
+}
+
+.justify-content-center{
+  justify-content: center;
+}
+
+.justify-content-start{
+  justify-content: flex-start;
+}
+
+.justify-content-end{
+  justify-content: flex-end;
+}
+
+.justify-content-between{
+  justify-content: space-between;
+}
+
+.justify-content-around{
+  justify-content: space-around;
+}
+
+.flex-wrap{
+  flex-wrap: wrap;
+}
+
+.align-items-start{
+  align-items: flex-start;
+}
+
+.align-items-end{
+  align-items: flex-end;
+}
+
+.align-items-center{
+  align-items: center;
+}
+
+.flex-1-0-0{
+  flex: 1, 0, 0;
+}
+
+.font10{
+  font-style: 20rpx;
+}
+
+.font12{
+  font-style: 24rpx;
+}
+
+.font14{
+  font-style: 28rpx;
+}
+
+.font16{
+  font-style: 32rpx;
+}
+
+.font18{
+  font-style: 36rpx;
+}
+
+.opacity40{
+  opacity: 0.4;
+}
+
+.opacity60{
+  opacity: 0.6;
+}
+
+.opacity80{
+  opacity: 0.8;
+}
+
+.opacity100{
+  opacity: 1;
+}
+
+.font-weight{
+  font-weight: 500;
+}
+
+.font-weight{
+  font-weight: 600;
+}
+
+.font-weight{
+  font-weight: 700;
+}
+
+.text-align-center{
+  text-align: center;
+}
+
+.text-overflow-hidden{
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+.margin-0-auto{
+  margin: 0 auto;
+}
+
